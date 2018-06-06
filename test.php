@@ -1,4 +1,5 @@
 <?php 
+123
 asdasdas;
 sample();
 function sample(){
@@ -7,5 +8,4 @@ function sample(){
   $z = $x + y;
   return z;
 }
-
 ?>
