@@ -6,5 +6,6 @@ echo '3 test success';
 
 echo 'sample test CI';
 echo '4 test success';
+echo '4 test success';
 
 ?>
