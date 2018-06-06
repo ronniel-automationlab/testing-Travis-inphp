@@ -1,10 +1,4 @@
 <?php 
-echo sample();
-function sample(){
-  $x= 1;
-  $y = 2;
-  $z = $x + $y;
-  return z;
-}
+echo 'sample test CI';
 
 ?>
