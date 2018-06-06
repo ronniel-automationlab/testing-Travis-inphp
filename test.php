@@ -8,5 +8,4 @@ function sample(){
   $z = $x + y;
   return z;
 }
-
 ?>
