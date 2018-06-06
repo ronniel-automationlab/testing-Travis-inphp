@@ -14,4 +14,9 @@ function sample3(){
 	return 'sample3';
 }
 
+echo sample4();
+function sample3(){
+	return 'sample4';
+}
+
 ?>
