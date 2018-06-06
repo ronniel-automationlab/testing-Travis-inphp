@@ -1,12 +1,10 @@
 <?php 
-asdasdas;
-sample();
+echo sample();
 function sample(){
   $x= 1;
-  $y = 2
-  $z = $x + y;
+  $y = 2;
+  $z = $x + $y;
   return z;
 }
-asdasdsada
 
 ?>
