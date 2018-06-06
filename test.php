@@ -9,5 +9,9 @@ function sample2(){
 	return 'sample1';
 }
 
+echo sample3();
+function sample3(){
+	return 'sample3';
+}
 
 ?>
