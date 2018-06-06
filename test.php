@@ -1,5 +1,5 @@
 <?php 
-echo sample();
+echo sample()
 function sample(){
   $x= 1;
   $y = 2;
